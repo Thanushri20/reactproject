@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "fname": "Dosa",
+      "fprice": "70",
+      "id": 1
+    },
+    {
+      "fname": "idle",
+      "fprice": "50",
+      "id": 2
+    },
+    {
+      "fname": "masala dosa",
+      "fprice": "90",
+      "id": 3
+    },
+    {
+      "fname": "biryani",
+      "fprice": "1200",
+      "id": 4
+    }
+  ]
+}

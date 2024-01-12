@@ -1,0 +1,147 @@
+Nav{
+   
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+  }
+  ol{
+      width: 700px;
+      display: flex;
+      justify-content: space-evenly;
+      align-items: center;
+      text-decoration: none;
+      list-style: none;
+  }
+  *{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+nav{
+    background-color: rgb(15, 188, 147);
+    height: 75px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.menublock{
+    width: 600px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.logoblock>img{
+    width: 150px;
+    height:150px;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;  
+    mix-blend-mode: multiply; 
+}
+ol{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-decoration: none;
+    width: 500px;
+    list-style: none;
+}
+ol>li>a{
+    text-decoration: none;
+}
+#pro{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center; 
+    background-color: bisque;
+}
+form{
+    width: 300px;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 350px;
+    flex-wrap: wrap;
+    margin: 10px;
+    padding: 10px;
+}
+.food{
+    border: 2px solid rgb(95, 230, 225);
+    background-color: rgb(198, 106, 134);
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8%;
+}
+.bth{
+    width: 150%;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.cart>img{
+    height: 55px;
+    width: 55px;
+}
+#links{
+    text-decoration: none;
+    color: black;
+}
+#update-block{
+   
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+   background-color: aquamarine;
+}
+
+
+button{
+    height: 30px;
+    width: 50px;
+    border: none;
+    border: 1px solid black;   
+}
+
+.food>img{
+    height: 100px;
+    width: 100px;
+}
+#log,#sign{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+   
+
+}
+#ord{
+    width: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#udp{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+fieldset{
+   
+    border-radius: 10px;
+    padding: 40px;
+    margin: 10px;
+    background-color: rgb(232, 247, 96);
+    border: none;
+}
